@@ -1,4 +1,8 @@
 
+# Projeto de Chat no Azure AI Foundry
+
+Este repositório contém um guia passo a passo para a criação de um projeto no Azure AI Foundry, explorando o playground de Chat e testando respostas geradas por IA. Siga as instruções para fazer o deploy do GPT-4 e interagir com ele para refinar as respostas para diversos cenários de uso.
+
 
 
 ## Links importantes
@@ -70,7 +74,7 @@ Para realizar este projeto, é necessário ter uma conta Microsoft e criar um pr
      Quais são as 10 principais atrações turísticas de Paris? Responda com uma lista numerada em ordem de popularidade.
      ```
  ![](scr/009.png)
- 
+
 
 
 Após esse teste, para finalizar é só fechar a tela do navegador. 
